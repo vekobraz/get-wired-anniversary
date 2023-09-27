@@ -9,7 +9,7 @@
  * @param {number} months Month you want to find
  * @param {number} days Day you want to find
  *
- * @returns {string} Formatted date
+ * @returns {string} Formatted date "YYYY-MM-DD"
  */
 function getWiredAnniversary(
     birthday,
