@@ -1,4 +1,4 @@
-# Get your weird anniversary
+# Get your wired anniversary
 
 ## getWiredAnniversary
 
