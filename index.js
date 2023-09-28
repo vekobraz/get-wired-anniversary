@@ -33,5 +33,3 @@ function getWiredAnniversary(
 
     return [year, month, day].join('-');
 }
-
-console.log(getWiredAnniversary(new Date('1990-10-07'), -30, 30, 30))
