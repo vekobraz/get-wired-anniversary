@@ -10,4 +10,4 @@ getWiredAnniversary(new Date('1995-11-29'), 30, 30, 30)
 ```` 
 which means that you want to find out when you will be 30 years, 30 months and 30 days.
 
-Good luck, and don't forget to celebrate your weird anniversary
+Good luck, and don't forget to celebrate your wired anniversary
